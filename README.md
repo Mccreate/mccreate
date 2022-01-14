@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/-JAVA-orange"/> <img src="https://img.shields.io/badge/-Flutter(Dart)-blue"/> <img src="https://img.shields.io/badge/-Go-6AD7E5"/>
+<img src="https://img.shields.io/badge/-React.js-9cf"/>
 
 <!--
 **Mccreate/mccreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
