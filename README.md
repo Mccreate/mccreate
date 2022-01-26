@@ -8,8 +8,9 @@ I'm intermediate at...<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter(Dart)-blue?style=flat-square&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/OracleDB-orange?style=flat-square&logo=Oracle&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/OracleDB-orange?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-red?style=flat-square&logo=Dart&logoColor=white"/>
 <br>
 I'm beginner at...<br>
 <img src="https://img.shields.io/badge/Go-6AD7E5?style=flat-square&logo=Go&logoColor=white"/> 
