@@ -17,6 +17,7 @@ I'm beginner at...<br>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-red?style=flat-square&logo=Next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nest.js-red?style=flat-square&logo=Nest.js&logoColor=white"/>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mccreate&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
