@@ -19,7 +19,7 @@ I'm beginner at...<br>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mccreate&count_private=true&show_icons=true&theme=dracula&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mccreate&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mccreate&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
