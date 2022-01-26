@@ -8,13 +8,13 @@ I'm intermediate at...<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/OracleDB-orange?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-red?style=flat-square&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <br>
 I'm beginner at...<br>
-<img src="https://img.shields.io/badge/Go-6AD7E5?style=flat-square&logo=Go&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React.js-9cf?style=flat-square&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-red?style=flat-square&logo=Next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
