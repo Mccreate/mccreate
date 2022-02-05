@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-red?style=flat-square&logo=Next.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square"/>
 <img src="https://img.shields.io/badge/Nest.js-ff0000?style=flat-square&logo=NestJs&logoColor=white"/>
 <br>
 
